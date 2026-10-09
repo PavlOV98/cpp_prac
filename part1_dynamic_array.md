@@ -42,4 +42,4 @@ arrA.add(arrB)  →  arrA = {arrA[0]+arrB[0], …, arrA[n]+arrB[n]}
 
 1. Создать ветку `part1-dynamic-array` от `main`.
 2. Вложить в репозиторий код класса и `main`-программу, демонстрирующую все 4 задания.
-3. Открыть PR в `main` и дождаться **merge**.
+3. Сделать **merge** в `main`.
